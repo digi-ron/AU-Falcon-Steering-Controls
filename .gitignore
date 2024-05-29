@@ -1,0 +1,5 @@
+*.skp
+*.skb
+*.stl
+!cruise.stl
+!cruise.skp
