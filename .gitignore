@@ -3,3 +3,5 @@
 *.stl
 !cruise.stl
 !cruise.skp
+!cruise-inner.stl
+!cruise-inner.skp
